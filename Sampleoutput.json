@@ -1,0 +1,59 @@
+{
+    "status": "ok",
+    "totalResults": 2483,
+    "articles": [
+      {
+        "source": {
+          "id": "bbc-news",
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "Cricket: Today at the Test",
+        "description": "Day three highlights from the second Test between England and Sri Lanka.",
+        "url": "https://www.bbc.co.uk/iplayer/episode/m0022n87/cricket-today-at-the-test-england-v-sri-lanka-2024-second-test-day-three-highlights",
+        "urlToImage": "https://ichef.bbci.co.uk/images/ic/1200x675/p0jhyw8y.jpg",
+        "publishedAt": "2024-08-31T19:25:15Z",
+        "content": "Day three highlights from the second Test between England and Sri Lanka."
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": null,
+        "title": "The Italian town that banned cricket",
+        "description": "Nearly a third of Monfalcone's residents are foreign, and the mayor says the \"cultural essence\" of the town is in danger.",
+        "url": "https://www.bbc.com/news/articles/cr5njmgmvq7o",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/f9cd/live/eecbeb90-6aae-11ef-b43e-6916dcba5cbf.jpg",
+        "publishedAt": "2024-09-06T00:13:51Z",
+        "content": "Miah Bappy and other Bengalis have to play cricket outside the town of Monfalcone\r\nUnder the scorching sun on Italys Adriatic coast, a group of friends from Bangladesh are practising their cricket sk… [+6122 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": "Timothy Abraham",
+        "title": "Anderson a target for USA's Major League Cricket",
+        "description": "England's all-time leading Test wicket-taker James Anderson is a target for Major League Cricket in the USA, BBC Sport understands.",
+        "url": "https://www.bbc.com/sport/cricket/articles/cm2nlynl95mo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/cef3/live/46ac0690-6241-11ef-a6f3-c750a7f3281c.jpg",
+        "publishedAt": "2024-09-16T06:16:53Z",
+        "content": "England's all-time leading Test wicket-taker James Anderson is a surprise target for Major League Cricket.\r\nBBC Sport understands senior figures with at least one MLC team have had their interest pri… [+1224 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "BBC News"
+        },
+        "author": "Matthew Henry",
+        "title": "Brook's first ODI century keeps England in series",
+        "description": "Captain Harry Brook hits a superb first one-day international century as England beat Australia in the third match to keep the series alive.",
+        "url": "https://www.bbc.com/sport/cricket/articles/c4g5rrp9dvwo",
+        "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/83b6/live/c0015500-7aa5-11ef-b282-4535eb84fe4b.jpg",
+        "publishedAt": "2024-09-24T19:19:09Z",
+        "content": "Captain Harry Brook hit a superb first one-day international century as England beat Australia in the third match to breathe life into their new era of white-ball cricket.\r\nChasing 305 knowing defeat… [+959 chars]"
+      }
+      
+    ]
+  }
